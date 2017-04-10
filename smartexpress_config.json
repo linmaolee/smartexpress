@@ -1,5 +1,5 @@
 { "appMode":2,
 "queryApi": "ExpressAPI.Kuaidiwang,ExpressAPI.Kuaidi100",
-"payType": "1,1",   
+"payType": "1,0",   
 "showAdByOnly":1,       
 "checkedKey": ["","",""]}     
